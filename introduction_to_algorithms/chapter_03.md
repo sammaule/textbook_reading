@@ -1,3 +1,5 @@
+## Characterizing Running Times
+
 *This was a more maths heavy chapter in the book so notes are a bit sparser here as a deep understanding of the underlying maths is not what I'm looking to get from this book.*
 
 When looking at run times of an algorithm we mean their *asymptotic efficiency*. It is normally the case that the asympotically more efficient is the best choice for all but the smallest inputs.

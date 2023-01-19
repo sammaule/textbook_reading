@@ -1,4 +1,6 @@
-#### 2.1 Insertion sort
+## Getting Started
+
+### 2.1 Insertion sort
 
 Solves the sorting problem 
 
